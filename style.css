@@ -64,13 +64,9 @@ button {
 
 .eyebrow {
     color: var(--green);
-
     font-size: 0.75rem;
-
     font-weight: 700;
-
     letter-spacing: 0.2em;
-
     margin-bottom: 16px;
 }
 
@@ -80,9 +76,7 @@ button {
 
 .section-heading h2 {
     font-family: "Space Grotesk", sans-serif;
-
     font-size: clamp(2.4rem, 5vw, 4.5rem);
-
     line-height: 1.05;
 }
 
@@ -97,7 +91,6 @@ button {
 
 .navbar {
     position: fixed;
-
     top: 0;
     left: 0;
 
@@ -105,15 +98,12 @@ button {
     height: 80px;
 
     display: flex;
-
     align-items: center;
-
     justify-content: space-between;
 
     padding: 0 5%;
 
     background: rgba(5, 5, 5, 0.75);
-
     backdrop-filter: blur(20px);
 
     border-bottom: 1px solid var(--border);
@@ -123,11 +113,8 @@ button {
 
 .logo {
     font-family: "Space Grotesk", sans-serif;
-
     font-size: 1.7rem;
-
     font-weight: 800;
-
     letter-spacing: -0.05em;
 }
 
@@ -138,17 +125,13 @@ button {
 
 .nav-links {
     display: flex;
-
     align-items: center;
-
     gap: 32px;
 }
 
 .nav-links a {
     color: var(--gray);
-
     font-size: 0.9rem;
-
     transition: 0.3s ease;
 }
 
@@ -161,7 +144,6 @@ button {
     display: none;
 
     border: 0;
-
     background: transparent;
 
     color: white;
@@ -180,7 +162,6 @@ button {
     min-height: 100vh;
 
     display: grid;
-
     grid-template-columns: 1.1fr 0.9fr;
 
     align-items: center;
@@ -216,7 +197,6 @@ button {
 
 .hero-content {
     position: relative;
-
     z-index: 2;
 }
 
@@ -234,7 +214,6 @@ button {
 
 .hero h1 span {
     display: block;
-
     color: var(--green);
 }
 
@@ -258,9 +237,7 @@ button {
 
 .hero-buttons {
     display: flex;
-
     flex-wrap: wrap;
-
     gap: 15px;
 }
 
@@ -273,7 +250,6 @@ button {
     display: inline-flex;
 
     align-items: center;
-
     justify-content: center;
 
     gap: 10px;
@@ -283,7 +259,6 @@ button {
     border-radius: 100px;
 
     font-size: 0.9rem;
-
     font-weight: 700;
 
     transition:
@@ -294,7 +269,6 @@ button {
 
 .primary-btn {
     color: #000;
-
     background: var(--green);
 }
 
@@ -307,13 +281,11 @@ button {
 
 .secondary-btn {
     border: 1px solid var(--border);
-
     color: white;
 }
 
 .secondary-btn:hover {
     border-color: var(--green);
-
     color: var(--green);
 }
 
@@ -328,7 +300,6 @@ button {
     display: flex;
 
     justify-content: center;
-
     align-items: center;
 }
 
@@ -370,7 +341,6 @@ button {
     height: 45px;
 
     display: flex;
-
     align-items: center;
 
     gap: 8px;
@@ -432,7 +402,6 @@ button {
 
 .about-text {
     color: var(--gray);
-
     font-size: 1.05rem;
 }
 
@@ -462,7 +431,6 @@ button {
 
 .stat-card:hover {
     border-color: rgba(57, 255, 20, 0.4);
-
     transform: translateY(-5px);
 }
 
@@ -478,7 +446,6 @@ button {
 
 .stat-card span {
     color: var(--gray);
-
     font-size: 0.85rem;
 }
 
@@ -532,7 +499,6 @@ button {
     position: absolute;
 
     right: 25px;
-
     top: 20px;
 
     color: #444;
@@ -549,7 +515,6 @@ button {
     display: flex;
 
     align-items: center;
-
     justify-content: center;
 
     margin-bottom: 35px;
@@ -897,7 +862,6 @@ footer a:hover {
         position: absolute;
 
         top: 80px;
-
         right: 5%;
 
         width: 220px;
