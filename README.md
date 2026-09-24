@@ -1,1 +1,0 @@
-# KarneshSS-portfolio
